@@ -1,0 +1,8 @@
+{
+  "name": "Remix LiveDeck FX",
+  "description": "TikTok Live controller for instant sound effects, visual overlays, gift animations, goal counters, and PK battle deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
